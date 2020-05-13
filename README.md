@@ -6,11 +6,11 @@ Interested in taking the High Power Rocketry Level 2 Exam?
 
 You can use this interactive practice test to help you learn the questions and answers in the pool.
 
-<a href="https://codepen.io/ddowdall/full/MMQygE" target="_blank">Start Practice Test</a>
+[Start Practice Test](https://codepen.io/ddowdall/full/MMQygE)
 
-<a href="https://codepen.io/ddowdall/pen/MMQygE" target="_blank">View CodePen</a>
+[View CodePen](https://codepen.io/ddowdall/pen/MMQygE)
 
-Learn More about <a href="https://www.nar.org/high-power-rocketry-info/" target="_blank">High Power Rocketry</a>
+Learn More about [High Power Rocketry](https://www.nar.org/high-power-rocketry-info/)
 
 ***
 
